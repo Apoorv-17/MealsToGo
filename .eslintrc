@@ -1,20 +1,6 @@
 {
-<<<<<<< HEAD
     "extends": "@react-native-community",
     "rules": {
         "quotes": [2, "double", { "avoidEscape": true }]
       }
 }
-=======
-  "extends": "@react-native-community",
-  "rules": {
-    "quotes": [2, "double", { "avoidEscape": true }]
-  },
-  "prettier/prettier": [
-    "error",
-    {
-      "endOfLine": "auto"
-    }
-  ]
-}
->>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604

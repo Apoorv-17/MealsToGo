@@ -47,7 +47,7 @@ export const RestaurantsScreen = ({ navigation }) => {
                 })
               }
             >
-              <Spacer location="bottom" size="large">
+              <Spacer position="bottom" size="large">
                 <RestaurantInfoCard restaurant={item} />
               </Spacer>
             </TouchableOpacity>
