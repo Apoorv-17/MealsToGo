@@ -57,4 +57,8 @@ export default `<?xml version="1.0" encoding="iso-8859-1"?>
 </g>
 <g>
 </g>
+<<<<<<< HEAD
 </svg>`
+=======
+</svg>`;
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604

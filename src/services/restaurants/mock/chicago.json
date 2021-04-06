@@ -6,6 +6,7 @@
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.886065,
           "lng": -87.6208832
         },
@@ -17,16 +18,34 @@
           "southwest": {
             "lat": 41.88489026970849,
             "lng": -87.6221810302915
+=======
+          "lat": 51.2132707,
+          "lng": 4.4168305
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2145994302915,
+            "lng": 4.418074130291502
+          },
+          "southwest": {
+            "lat": 51.2119014697085,
+            "lng": 4.415376169708497
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+<<<<<<< HEAD
       "name": "Fairmont Chicago - Millennium Park",
+=======
+      "name": "Mercure Antwerp City Centre",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "opening_hours": {
         "open_now": true
       },
       "photos": [
         {
+<<<<<<< HEAD
           "height": 1194,
           "html_attributions": [""],
           "photo_reference": "",
@@ -67,10 +86,39 @@
           "southwest": {
             "lat": 41.8877171697085,
             "lng": -87.6278869302915
+=======
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "rating": 4,
+      "reference": "",
+      "user_ratings_total": 832,
+      "vicinity": "Quinten Matsijslei 25, Antwerpen"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 51.21366200000001,
+          "lng": 4.405177
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2150259802915,
+            "lng": 4.406393180291502
+          },
+          "southwest": {
+            "lat": 51.2123280197085,
+            "lng": 4.403695219708498
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+<<<<<<< HEAD
       "name": "Trump International Hotel & Tower® Chicago",
       "opening_hours": {
         "open_now": true
@@ -84,11 +132,26 @@
         }
       ],
       "place_id": "some place id 22",
+=======
+      "name": "Elzenveld Hotel & Seminar",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 2048
+        }
+      ],
+      "place_id": "some place id 2",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "plus_code": {
         "compound_code": "",
         "global_code": ""
       },
+<<<<<<< HEAD
       "rating": 4.1,
+=======
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "reference": "",
       "scope": "",
       "types": [
@@ -101,13 +164,18 @@
         "point_of_interest",
         "establishment"
       ],
+<<<<<<< HEAD
       "user_ratings_total": 2624,
       "vicinity": "401 North Wabash Avenue, Chicago"
+=======
+      "vicinity": "Lange Gasthuisstraat 45, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.8870687,
           "lng": -87.61948509999999
         },
@@ -119,10 +187,24 @@
           "southwest": {
             "lat": 41.8860234197085,
             "lng": -87.6207589302915
+=======
+          "lat": 51.220671,
+          "lng": 4.399616700000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2220094802915,
+            "lng": 4.400740480291502
+          },
+          "southwest": {
+            "lat": 51.2193115197085,
+            "lng": 4.398042519708497
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+<<<<<<< HEAD
       "name": "Swissotel Chicago",
       "opening_hours": {
         "open_now": true
@@ -136,27 +218,56 @@
         }
       ],
       "place_id": "some place id 23",
+=======
+      "name": "HotelO",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 3000
+        }
+      ],
+      "place_id": "some place id 3",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "plus_code": {
         "compound_code": "",
         "global_code": ""
       },
+<<<<<<< HEAD
       "rating": 4.4,
       "reference": "",
       "scope": "",
       "types": [
+=======
+      "rating": 4.3,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "travel_agency",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
         "lodging",
         "restaurant",
         "food",
         "point_of_interest",
         "establishment"
       ],
+<<<<<<< HEAD
       "user_ratings_total": 4059,
       "vicinity": "323 East Wacker Drive, Chicago"
+=======
+      "user_ratings_total": 321,
+      "vicinity": "Handschoenmarkt 3/5, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.87156110000001,
           "lng": -87.62728609999999
         },
@@ -168,10 +279,24 @@
           "southwest": {
             "lat": 41.8702361197085,
             "lng": -87.6287200302915
+=======
+          "lat": 51.2093238,
+          "lng": 4.39107
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2107127302915,
+            "lng": 4.392468230291503
+          },
+          "southwest": {
+            "lat": 51.2080147697085,
+            "lng": 4.389770269708499
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "Lou Malnati's Pizzeria",
       "opening_hours": {
         "open_now": true
@@ -203,11 +328,31 @@
       ],
       "user_ratings_total": 6103,
       "vicinity": "805 South State Street, Chicago"
+=======
+      "name": "The Glorious Inn",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 4",
+      "rating": 4.6,
+      "reference": "",
+      "user_ratings_total": 152,
+      "vicinity": "De Burburestraat 4A, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.88907469999999,
           "lng": -87.62988229999999
         },
@@ -224,11 +369,30 @@
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
       "name": "Siena Tavern",
+=======
+          "lat": 51.2085756,
+          "lng": 4.3922755
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2098682302915,
+            "lng": 4.393753530291503
+          },
+          "southwest": {
+            "lat": 51.2071702697085,
+            "lng": 4.391055569708498
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Hotel Pilar",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "opening_hours": {
         "open_now": true
       },
       "photos": [
         {
+<<<<<<< HEAD
           "height": 812,
           "html_attributions": [""],
           "photo_reference": "",
@@ -253,11 +417,26 @@
       ],
       "user_ratings_total": 1906,
       "vicinity": "51 West Kinzie Street, Chicago"
+=======
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 5",
+      "rating": 4.2,
+      "reference": "",
+
+      "user_ratings_total": 151,
+      "vicinity": "Leopold de Waelplaats 34, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.8846222,
           "lng": -87.6297111
         },
@@ -269,16 +448,34 @@
           "southwest": {
             "lat": 41.8832512697085,
             "lng": -87.63096718029149
+=======
+          "lat": 51.2210731,
+          "lng": 4.4030571
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2224264802915,
+            "lng": 4.404163080291502
+          },
+          "southwest": {
+            "lat": 51.2197285197085,
+            "lng": 4.401465119708497
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "Petterino's",
+=======
+      "name": "De Peerdestal | Restaurant Antwerpen",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "opening_hours": {
         "open_now": true
       },
       "photos": [
         {
+<<<<<<< HEAD
           "height": 1000,
           "html_attributions": [""],
           "photo_reference": "",
@@ -303,11 +500,26 @@
       ],
       "user_ratings_total": 1255,
       "vicinity": "150 North Dearborn Street, Chicago"
+=======
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 6",
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "",
+      "user_ratings_total": 766,
+      "vicinity": "Wijngaardstraat 8, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.87801039999999,
           "lng": -87.63489799999999
         },
@@ -319,16 +531,34 @@
           "southwest": {
             "lat": 41.87671461970849,
             "lng": -87.6361771802915
+=======
+          "lat": 51.215643,
+          "lng": 4.399512000000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.21704323029149,
+            "lng": 4.400861330291503
+          },
+          "southwest": {
+            "lat": 51.2143452697085,
+            "lng": 4.398163369708498
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "Giordano's",
+=======
+      "name": "Huis De Colvenier",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "opening_hours": {
         "open_now": true
       },
       "photos": [
         {
+<<<<<<< HEAD
           "height": 750,
           "html_attributions": [""],
           "photo_reference": "",
@@ -353,11 +583,25 @@
       ],
       "user_ratings_total": 6816,
       "vicinity": "223 West Jackson Boulevard, Chicago"
+=======
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 7",
+      "rating": 4.2,
+      "reference": "",
+      "user_ratings_total": 122,
+      "vicinity": "Sint-Antoniusstraat 8, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.8813268,
           "lng": -87.6246925
         },
@@ -369,16 +613,34 @@
           "southwest": {
             "lat": 41.8799740197085,
             "lng": -87.6259210302915
+=======
+          "lat": 51.21939859999999,
+          "lng": 4.3991545
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2206672302915,
+            "lng": 4.400538980291503
+          },
+          "southwest": {
+            "lat": 51.2179692697085,
+            "lng": 4.397841019708499
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "The Gage",
+=======
+      "name": "Il Milanese by Lollapalooza",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "opening_hours": {
         "open_now": true
       },
       "photos": [
         {
+<<<<<<< HEAD
           "height": 1367,
           "html_attributions": [""],
           "photo_reference": "",
@@ -403,11 +665,26 @@
       ],
       "user_ratings_total": 2771,
       "vicinity": "24 South Michigan Avenue, Chicago"
+=======
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 8",
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "",
+      "user_ratings_total": 156,
+      "vicinity": "Pelgrimstraat 28, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.86886419999999,
           "lng": -87.62456600000002
         },
@@ -419,16 +696,34 @@
           "southwest": {
             "lat": 41.8675172697085,
             "lng": -87.6257200802915
+=======
+          "lat": 51.2205556,
+          "lng": 4.401666699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2219723802915,
+            "lng": 4.403506180291502
+          },
+          "southwest": {
+            "lat": 51.2192744197085,
+            "lng": 4.400808219708497
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "Yolk - South Loop",
+=======
+      "name": "Het Vermoeide Model",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "opening_hours": {
         "open_now": true
       },
       "photos": [
         {
+<<<<<<< HEAD
           "height": 2268,
           "html_attributions": [""],
           "photo_reference": "",
@@ -470,10 +765,41 @@
           "southwest": {
             "lat": 41.8836203697085,
             "lng": -87.6334473302915
+=======
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 9",
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "",
+      "user_ratings_total": 441,
+      "vicinity": "Lijnwaadmarkt 2, Antwerpen"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 51.21901699999999,
+          "lng": 4.399416899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2203960302915,
+            "lng": 4.400800780291502
+          },
+          "southwest": {
+            "lat": 51.2176980697085,
+            "lng": 4.398102819708497
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "M Burger",
       "permanently_closed": true,
       "photos": [
@@ -485,21 +811,47 @@
         }
       ],
       "place_id": "some place id 30",
+=======
+      "name": "'t Fornuis",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 2048
+        }
+      ],
+      "place_id": "some place id 10",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "plus_code": {
         "compound_code": "",
         "global_code": ""
       },
+<<<<<<< HEAD
       "rating": 4,
       "reference": "",
       "scope": "",
       "types": ["restaurant", "food", "point_of_interest", "establishment"],
       "user_ratings_total": 113,
       "vicinity": "THOMPSON CENTER, 100 West Randolph Street, Chicago"
+=======
+      "price_level": 4,
+      "rating": 4.7,
+      "reference": "",
+      "scope": "",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 152,
+      "vicinity": "Reyndersstraat 24, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.8847209,
           "lng": -87.6228606
         },
@@ -528,21 +880,61 @@
         }
       ],
       "place_id": "some place id 31",
+=======
+          "lat": 51.2141321,
+          "lng": 4.409785100000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2154825302915,
+            "lng": 4.410900480291502
+          },
+          "southwest": {
+            "lat": 51.2127845697085,
+            "lng": 4.408202519708498
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Lunchbox",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3139,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 6153
+        }
+      ],
+      "place_id": "some place id 11",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "plus_code": {
         "compound_code": "",
         "global_code": ""
       },
       "price_level": 2,
+<<<<<<< HEAD
       "rating": 4.6,
       "reference": "",
       "scope": "",
       "types": [
         "cafe",
         "restaurant",
+=======
+      "rating": 4.2,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "restaurant",
+        "bar",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
         "food",
         "point_of_interest",
         "establishment"
       ],
+<<<<<<< HEAD
       "user_ratings_total": 5639,
       "vicinity": "130 East Randolph Street, Chicago"
     },
@@ -561,10 +953,31 @@
           "southwest": {
             "lat": 41.87800186970851,
             "lng": -87.6297643302915
+=======
+      "user_ratings_total": 689,
+      "vicinity": "Nieuwstad 8, Antwerpen"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 51.21892750000001,
+          "lng": 4.3944361
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2201378802915,
+            "lng": 4.396247430291502
+          },
+          "southwest": {
+            "lat": 51.2174399197085,
+            "lng": 4.393549469708498
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "The Berghoff Restaurant",
       "permanently_closed": true,
       "photos": [
@@ -576,22 +989,53 @@
         }
       ],
       "place_id": "some place id 32",
+=======
+      "name": "Zuiderterras / RAS",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 3024
+        }
+      ],
+      "place_id": "some place id 12",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "plus_code": {
         "compound_code": "",
         "global_code": ""
       },
       "price_level": 2,
+<<<<<<< HEAD
       "rating": 4.4,
       "reference": "",
       "scope": "",
       "types": ["restaurant", "food", "point_of_interest", "establishment"],
       "user_ratings_total": 3042,
       "vicinity": "17 West Adams Street, Chicago"
+=======
+      "rating": 4.2,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 854,
+      "vicinity": "Ernest Van Dijckkaai 37, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.8779176,
           "lng": -87.6421428
         },
@@ -603,10 +1047,24 @@
           "southwest": {
             "lat": 41.8766164197085,
             "lng": -87.6435184802915
+=======
+          "lat": 51.22667930000001,
+          "lng": 4.406515799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2281167302915,
+            "lng": 4.407858080291502
+          },
+          "southwest": {
+            "lat": 51.2254187697085,
+            "lng": 4.405160119708498
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "Lou Mitchell's",
       "opening_hours": {
         "open_now": true
@@ -620,10 +1078,26 @@
         }
       ],
       "place_id": "some place id 33",
+=======
+      "name": "Pazzo",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 639,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 1136
+        }
+      ],
+      "place_id": "some place id 13",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "plus_code": {
         "compound_code": "",
         "global_code": ""
       },
+<<<<<<< HEAD
       "price_level": 2,
       "rating": 4.6,
       "reference": "",
@@ -647,10 +1121,36 @@
           "southwest": {
             "lat": 41.8791936697085,
             "lng": -87.63911473029151
+=======
+      "price_level": 3,
+      "rating": 4.5,
+      "reference": "",
+      "scope": "",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 316,
+      "vicinity": "Oudeleeuwenrui 12, Antwerpen"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 51.2164307,
+          "lng": 4.409301300000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2178396302915,
+            "lng": 4.410637980291503
+          },
+          "southwest": {
+            "lat": 51.2151416697085,
+            "lng": 4.407940019708498
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "South Branch Tavern and Grille",
       "permanently_closed": true,
       "photos": [
@@ -662,10 +1162,26 @@
         }
       ],
       "place_id": "some place id 34",
+=======
+      "name": "Horta Grand Café & Art Nouveau Zaal",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3376,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 6000
+        }
+      ],
+      "place_id": "some place id 14",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "plus_code": {
         "compound_code": "",
         "global_code": ""
       },
+<<<<<<< HEAD
       "price_level": 2,
       "rating": 4.3,
       "reference": "",
@@ -695,10 +1211,36 @@
           "southwest": {
             "lat": 41.8850859697085,
             "lng": -87.62562043029149
+=======
+      "price_level": 3,
+      "rating": 4.1,
+      "reference": "",
+      "scope": "",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 1274,
+      "vicinity": "Hopland 2, Antwerpen"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 51.220236,
+          "lng": 4.399357
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2218302802915,
+            "lng": 4.400721680291503
+          },
+          "southwest": {
+            "lat": 51.2191323197085,
+            "lng": 4.398023719708498
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "Sweetwater Tavern and Grille",
       "permanently_closed": true,
       "photos": [
@@ -710,10 +1252,26 @@
         }
       ],
       "place_id": "some place id 35",
+=======
+      "name": "Sir Anthony Van Dijck",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 480
+        }
+      ],
+      "place_id": "some place id 15",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "plus_code": {
         "compound_code": "",
         "global_code": ""
       },
+<<<<<<< HEAD
       "price_level": 2,
       "rating": 4.2,
       "reference": "",
@@ -727,11 +1285,21 @@
       ],
       "user_ratings_total": 2203,
       "vicinity": "225 Michigan Avenue, Chicago"
+=======
+      "price_level": 4,
+      "rating": 4.4,
+      "reference": "",
+      "scope": "",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 311,
+      "vicinity": "Oude Koornmarkt 16, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.8730121,
           "lng": -87.6261784
         },
@@ -757,10 +1325,41 @@
         }
       ],
       "place_id": "some place id 36",
+=======
+          "lat": 51.2129287,
+          "lng": 4.3923955
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2142454302915,
+            "lng": 4.393706330291502
+          },
+          "southwest": {
+            "lat": 51.2115474697085,
+            "lng": 4.391008369708498
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Mañana Mañana",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 683,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 1024
+        }
+      ],
+      "place_id": "some place id 16",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "plus_code": {
         "compound_code": "",
         "global_code": ""
       },
+<<<<<<< HEAD
       "price_level": 2,
       "rating": 4.6,
       "reference": "",
@@ -775,11 +1374,28 @@
       ],
       "user_ratings_total": 2118,
       "vicinity": "700 South Wabash Avenue, Chicago"
+=======
+      "rating": 4.9,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "cafe",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 60,
+      "vicinity": "Scheldestraat 15, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.89052059999999,
           "lng": -87.6308469
         },
@@ -791,16 +1407,34 @@
           "southwest": {
             "lat": 41.88915861970849,
             "lng": -87.63231748029152
+=======
+          "lat": 51.2103946,
+          "lng": 4.4020686
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2117151802915,
+            "lng": 4.403286930291502
+          },
+          "southwest": {
+            "lat": 51.2090172197085,
+            "lng": 4.400588969708497
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "Frontera Grill",
+=======
+      "name": "De Broers van Julienne",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "opening_hours": {
         "open_now": true
       },
       "photos": [
         {
+<<<<<<< HEAD
           "height": 2667,
           "html_attributions": [""],
           "photo_reference": "",
@@ -808,11 +1442,21 @@
         }
       ],
       "place_id": "some place id 37",
+=======
+          "height": 1242,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 2038
+        }
+      ],
+      "place_id": "some place id 17",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "plus_code": {
         "compound_code": "",
         "global_code": ""
       },
       "price_level": 2,
+<<<<<<< HEAD
       "rating": 4.5,
       "reference": "",
       "scope": "",
@@ -835,10 +1479,41 @@
           "southwest": {
             "lat": 41.8810125697085,
             "lng": -87.6377926302915
+=======
+      "rating": 4.1,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 335,
+      "vicinity": "Kasteelpleinstraat 45/47, Antwerpen"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 51.21393579999999,
+          "lng": 4.4067937
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2153003802915,
+            "lng": 4.408306030291503
+          },
+          "southwest": {
+            "lat": 51.2126024197085,
+            "lng": 4.405608069708498
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "One North Kitchen & Bar",
       "permanently_closed": true,
       "photos": [
@@ -850,10 +1525,26 @@
         }
       ],
       "place_id": "some place id 38",
+=======
+      "name": "Het Gebaar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 427,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 640
+        }
+      ],
+      "place_id": "some place id 18",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "plus_code": {
         "compound_code": "",
         "global_code": ""
       },
+<<<<<<< HEAD
       "price_level": 2,
       "rating": 4.1,
       "reference": "",
@@ -867,11 +1558,21 @@
       ],
       "user_ratings_total": 322,
       "vicinity": "1 North Upper Wacker Drive, Chicago"
+=======
+      "price_level": 4,
+      "rating": 4.7,
+      "reference": "",
+      "scope": "",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 362,
+      "vicinity": "Leopoldstraat 24, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.88433,
           "lng": -87.632809
         },
@@ -883,16 +1584,34 @@
           "southwest": {
             "lat": 41.8829801197085,
             "lng": -87.6339997302915
+=======
+          "lat": 51.219929,
+          "lng": 4.4005703
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.22113493029149,
+            "lng": 4.403586499999999
+          },
+          "southwest": {
+            "lat": 51.2184369697085,
+            "lng": 4.399564900000001
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "312 Chicago",
+=======
+      "name": "Da Giovanni Groenplaats TAKE OUT",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "opening_hours": {
         "open_now": true
       },
       "photos": [
         {
+<<<<<<< HEAD
           "height": 757,
           "html_attributions": [""],
           "photo_reference": "",
@@ -900,10 +1619,20 @@
         }
       ],
       "place_id": "some place id 39",
+=======
+          "height": 1772,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 2658
+        }
+      ],
+      "place_id": "some place id 19",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "plus_code": {
         "compound_code": "",
         "global_code": ""
       },
+<<<<<<< HEAD
       "price_level": 3,
       "rating": 4.5,
       "reference": "",
@@ -917,11 +1646,21 @@
       ],
       "user_ratings_total": 810,
       "vicinity": "136 North LaSalle Street, Chicago"
+=======
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "",
+      "scope": "",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 4311,
+      "vicinity": "Jan Blomstraat 8, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
+<<<<<<< HEAD
           "lat": 41.8880993,
           "lng": -87.6327417
         },
@@ -933,10 +1672,24 @@
           "southwest": {
             "lat": 41.8867727697085,
             "lng": -87.63401008029152
+=======
+          "lat": 51.2193315,
+          "lng": 4.3989002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.2206958802915,
+            "lng": 4.400262280291502
+          },
+          "southwest": {
+            "lat": 51.2179979197085,
+            "lng": 4.397564319708497
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+<<<<<<< HEAD
       "name": "Chicago Cut Steakhouse",
       "opening_hours": {
         "open_now": true
@@ -950,10 +1703,26 @@
         }
       ],
       "place_id": "some place id 40",
+=======
+      "name": "Bij Lam & Yin",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 478,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 851
+        }
+      ],
+      "place_id": "some place id 20",
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
       "plus_code": {
         "compound_code": "",
         "global_code": ""
       },
+<<<<<<< HEAD
       "price_level": 4,
       "rating": 4.5,
       "reference": "",
@@ -967,6 +1736,15 @@
       ],
       "user_ratings_total": 1860,
       "vicinity": "300 North LaSalle Drive, Chicago"
+=======
+      "price_level": 3,
+      "rating": 4.6,
+      "reference": "",
+      "scope": "",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 151,
+      "vicinity": "Reyndersstraat 17, Antwerpen"
+>>>>>>> 70b7fe295b0d83ef22d115540138c3024d5a9604
     }
   ],
   "status": "OK"
